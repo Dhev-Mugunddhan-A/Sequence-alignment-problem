@@ -1,0 +1,4 @@
+references link and materials for GA:
+https://towardsdatascience.com/artificial-neural-networks-optimization-using-genetic-algorithm-with-python-1fe8ed17733e
+machine learning book by TOM. Mitchell
+https://www.hindawi.com/journals/afs/2012/951247/
